@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# C/C++ build files
+*.obj
+*.o
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.lastbuildstate
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Visual Studio cache / database
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+ipch/
+
+# Generated folders
+[Bb]uild/
+[Bb]uilds/
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# OS files
+Thumbs.db
+.DS_Store
